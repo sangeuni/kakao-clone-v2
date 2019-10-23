@@ -1,0 +1,10 @@
+.status-bar{
+   display: flex;   /* 모든 element 수평 정렬 */
+   justify-content: space-between;  /* class 내 요소를 가능한 떨어트리기 */
+   margin-bottom: 30px;
+   opacity: 0.7;
+}
+
+.status-bar i {
+    font-size: 14px;
+}
